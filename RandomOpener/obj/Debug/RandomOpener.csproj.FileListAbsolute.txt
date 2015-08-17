@@ -1,0 +1,6 @@
+c:\users\rovian\documents\visual studio 2012\Projects\RandomOpener\RandomOpener\bin\Debug\RandomOpener.exe.config
+c:\users\rovian\documents\visual studio 2012\Projects\RandomOpener\RandomOpener\bin\Debug\RandomOpener.exe
+c:\users\rovian\documents\visual studio 2012\Projects\RandomOpener\RandomOpener\bin\Debug\RandomOpener.pdb
+c:\users\rovian\documents\visual studio 2012\Projects\RandomOpener\RandomOpener\obj\Debug\RandomOpener.csprojResolveAssemblyReference.cache
+c:\users\rovian\documents\visual studio 2012\Projects\RandomOpener\RandomOpener\obj\Debug\RandomOpener.exe
+c:\users\rovian\documents\visual studio 2012\Projects\RandomOpener\RandomOpener\obj\Debug\RandomOpener.pdb
